@@ -1,0 +1,13 @@
+{
+  "type": "service_account",
+  "project_id": "queensmarry",
+  "private_key_id": "b464400e63aeb799948dcb3a62151b0439c74aee",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvgIBADANBgkqhkiG9w0BAQEFAASCBKgwggSkAgEAAoIBAQDEd8uZYPqkqiOL\nl/G3X/qNd/g1leKc73fSjdLG9CT473X4uQKKdrgnYMTNRrZwSWsVXjKxcC216rpx\nxz2VxsMDe4qItTJ0p8hWzZ9+43WaRyAsl84YpNOxzq6JUKGIb5o2MOsMM0YWOaJW\nyjTu5NXgvOgy5h1KvQ3J+LQjvDfErV8npbaZ/hhGkJJglDiugsEiAmypLbLm9u7s\nq+ASsIE2z4ZpAx1e3iclKmL5KvoR7XOtKoHqzc2XEuBe3VNjZ7d9N/qlEXYRZqwd\neTtl03by07LeYzeVihxa2/bPGlSXOXs4vilmNc5aapiccSqmZrC6WKWe49HQu3q4\njCPHYSi7AgMBAAECggEAJvNdIRZx+q1kiKtiF6nmoZ90TSNfHx/20H6fmCQVJGlN\nKTd8wnjQ/7WWrt/jEZXsrfrT8Au+dD+KIT6P/h6+0PTwPTQ3QZt2A4eWpHByA1kw\njsa17HrZIXpJbh3XOJZvq2i9YNjVf1iDz9Mc9XPW10x8eILYsdWTY0R0alVJdStU\n71AL8RZARAc7s7qS50paM/zxM1fJRSOVyoc/QbiG0L+YE7En8N9cZTArMGIARt8A\nrLWKJ26Mrvzd0GjVsxWWaSpcC7ylmScZnw1UH8a49S0HjzQ+/1Jz4Y0qQdLrfX40\n1l+xeqvUttkQH8ik82Hq+/WpBz28amOvT6HvO5+7GQKBgQDyI//g81HAEhW14wFI\nApOvhK9YiQ5TVLeUz24leuZvu+ZS3ledNr2y+z3pLmOrgJKuUaqrscGEjucFyxyb\npMLuGm3QTD/fYjEP0wMA34ftxNACDzKLbPUnEJ/FhBkjp5pHW9j2tNf3hd/vroZC\nCUPm/x0Yjawq1BXEpuMYMLKajwKBgQDPtpICKEZ0LXm+WIbtuAbC/kKQWMTJdMth\ny87neg/Yb0xAV8ra7XIO1y4ZRr7cbmpxlhd0FUsEYFnJBDRK/Hc+U9wDGMpPxw5O\nwcOUK7lJTg02Xu0+wblJTZp5izaFUMNj7TLowqPQ/BwHTzIKmc8GEGpTdTbe9d4W\nT71IZodVFQKBgHLdcvfSVTiJG7Vx31y6pDaB+fBE6//J02CLWhP7ji748tTi1qsk\nma67Em54bB2iW3LIGO9j3oo0hBEyffqzmSj8bpV+ZlpgqSd5kRYr875uO8KOVQrh\nABatAy3ecVKBomUxg+XcegrYfhekMdpHrOd6o+HO6xpSC5WDGX2TNFavAoGBAJhU\nvYnFfb3wJ+u3wuSN5K+WhryTzWYtOIb1UD0koIBLR3GcsRGTt+U4W/9/ibPhakD5\nISQqBYUlIFOyuKMRumXEXIMM6DpPsqeBpOyCkHU5P6lTPsyaiEdBGXvv48ErtNAR\nAhf/vuIiMnAN3ZY2rMQ2v7OLL/2d9Q0J17hEMRXtAoGBAK9I7b3B38l+vRucnbYa\nSkj+6OF1ykMi6M6yNfjNI8qbM7m9ZYC1e6hN9u4N2cG3f4oL8rjIBDQTXndicLON\nwGYt8vDp2d9ZGPw5RfG2nChGz9kRd06w6ZuiJ9Yrs9/4C5xN8QNik2Flqm4l9ofR\nWXIrB3C20hIt+UlxsMJjkpGA\n-----END PRIVATE KEY-----\n",
+  "client_email": "husnain@queensmarry.iam.gserviceaccount.com",
+  "client_id": "105801573108839561331",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/husnain%40queensmarry.iam.gserviceaccount.com",
+  "universe_domain": "googleapis.com"
+}
