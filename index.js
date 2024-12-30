@@ -29,17 +29,17 @@ const api = process.env.API_URL;
 app.use(`${api}/users`, usersRoutes);
 app.use(`${api}/links`, indexLinks);
 
-mongoose
-  .connect(process.env.CONNECTION_STRING, {
-    dbName: "index_link_db",
-  })
-  .then(() => {
-    console.log("Database connection ready");
-  })
-  .catch((err) => {
-    console.error("Database connection error:", err);
-    process.exit(1); // Exit the process to allow nodemon to restart it
-  });
+// mongoose
+//   .connect(process.env.CONNECTION_STRING, {
+//     dbName: "index_link_db",
+//   })
+//   .then(() => {
+//     console.log("Database connection ready");
+//   })
+//   .catch((err) => {
+//     console.error("Database connection error:", err);
+//     process.exit(1); // Exit the process to allow nodemon to restart it
+//   });
 
 const server = app.listen(process.env.PORT || 3000, () => {
   console.log("Server started on port 3000");
