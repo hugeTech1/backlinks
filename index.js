@@ -41,8 +41,8 @@ mongoose
     process.exit(1); // Exit the process to allow nodemon to restart it
   });
 
-const server = app.listen(5000, () => {
-  console.log("Server started on port 5000");
+const server = app.listen(process.env.PORT || 3000, () => {
+  console.log("Server started on port 3000");
 });
 
 // Graceful shutdown and error handling
